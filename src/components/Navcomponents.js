@@ -260,16 +260,17 @@ export function Project(){
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="heading-1">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#project-1" aria-expanded="true" aria-controls="project-1">
-                                        Lorem, ipsum.
+                                    ReactJS Calculator
                                     </button>
                                 </h2>
                                 <div id="project-1" class="accordion-collapse collpase show" aria-labelledby="heading-1" data-bs-parent="#projects_list">
                                     <div class="accordion-body">
                                         <p>
-                                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo, assumenda, eos, at perspiciatis fugiat fugit repudiandae impedit nisi vitae consectetur dolorum deleniti iure ratione ut amet. Alias architecto eius accusamus.
+                                        This React JS Calculator project is a sophisticated yet user-friendly tool built to simplify mathematical calculations with elegance and precision. Powered by React JS, a cutting-edge JavaScript library for building user interfaces, and enhanced with Bootstrap for seamless design integration, this calculator offers a seamless blend of functionality and aesthetics.
                                         </p>
-                                        <a href="" class="btn btn-outline-danger me-2" >App</a>
-                                        <a href="" target="_blank" class="btn btn-outline-danger" >Code</a>
+                                        <a href="https://calculator-react-steel.vercel.app/" class="btn btn-outline-danger me-2" >App</a>
+
+                                        <a href="https://github.com/21rishit/Calculator_React" target="_blank" class="btn btn-outline-danger" >Code</a>
                                     </div>
                                 </div>
                             </div>
@@ -277,15 +278,17 @@ export function Project(){
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="heading-2">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#project-2" aria-expanded="false" aria-controls="project-2">
-                                        Lorem, ipsum dolor.
+                                        Currency Convertor
                                     </button>
                                 </h2>
                                 <div id="project-2" class="accordion-collapse collpase" aria-labelledby="heading-2" data-bs-parent="#projects_list">
                                     <div class="accordion-body">
                                         <p>
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque sint magnam tempora ipsa a explicabo cumque aut dignissimos velit, dolor eligendi alias harum optio sit, placeat iste possimus vel nobis rem. A inventore esse dolorum expedita debitis eveniet minus cum.
+                                        This React JS Currency Converter project offers a streamlined solution for effortless currency exchange calculations, empowering users to convert between different currencies with ease and accuracy. Developed using React JS, a powerful JavaScript library for building interactive user interfaces, this project provides a seamless and intuitive experience for users seeking currency conversion functionality.
                                         </p>
-                                        <a href="" target="_blank" class="btn btn-outline-danger" >Code</a>
+                                        <a href="https://currency-converter-react-coral.vercel.app/" class="btn btn-outline-danger me-2" >App</a>
+                                        
+                                        <a href="https://github.com/21rishit/Currency-Converter-React" target="_blank" class="btn btn-outline-danger" >Code</a>
                                     </div>
                                 </div>
                             </div>
